@@ -1,7 +1,10 @@
 #include <iostream>
+using namespace std;
+int main()
+{ int a, b;
 
-int
-main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+cout << "Enter A and B: ";
+
+cin >> a >> b;
+
 }
